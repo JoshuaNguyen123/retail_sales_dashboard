@@ -101,7 +101,7 @@ Dashboard Link: [https://public.tableau.com/views/SalesOverTimeDashboard_1749481
 ## 👨‍💻 Author
 
 **Joshua Nguyen**  
-[GitHub](https://github.com/JoshuaNguyen123) · [LinkedIn](www.linkedin.com/in/joshua-nguyen-6a812a210)
+[GitHub](https://github.com/JoshuaNguyen123) · [LinkedIn](https://www.linkedin.com/in/joshua-nguyen-6a812a210)
 
 ## 📄 License
 
