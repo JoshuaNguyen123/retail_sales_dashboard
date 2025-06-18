@@ -89,7 +89,7 @@ python run_all.py
 
 Open `dashboard/tableau_dashboard.twbx` or connect to `data/cleaned_sales.csv`.
 
-Dashboard Link: [🔗 Paste your Tableau Public link here]
+Dashboard Link: [https://public.tableau.com/views/SalesOverTimeDashboard_17494814623870/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## 📌 Future Enhancements
 
