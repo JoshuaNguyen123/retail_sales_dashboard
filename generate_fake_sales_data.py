@@ -41,4 +41,4 @@ df = pd.DataFrame(data, columns=[
 
 # Save to CSV
 df.to_csv("data/raw/sales_data.csv", index=False)
-print("✅ Generated synthetic sales data!")
+print("Generated synthetic sales data!")
